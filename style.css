@@ -1,0 +1,23 @@
+main {
+    front-size: 40px;
+}
+h1{
+    front-size: 32px;
+    front-weight: lighter;
+    color:crimson;
+    background-color: coral;
+    max-width: fit-content;
+}
+div{
+    max-width: fit-content;
+    background-color: darkgreen;
+    color: white;
+}
+ul{
+    background-color: rgb(196, 174, 174);
+    color: aqua;
+}
+
+a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
